@@ -5,9 +5,9 @@
 
 1. Clone the project.
 2. Install NodeModules
-3. create .env file on backend.\
+3. create .env file on backend.
 4. Cross Check the API url on frontend.
-5. Run the Project.. Frontend- #npm start .    Backend- #npm run dev
+5. Run the Project.. Frontend- # npm start .    Backend- # npm run dev
 
 
 # Project Description
